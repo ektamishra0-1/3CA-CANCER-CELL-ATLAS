@@ -1,5 +1,12 @@
 # 🧬 3CA Cancer Cell Atlas Explorer
 
+
+
+🚀 **Live Demo:** 
+[https://YOUR-STREAMLIT-URL.streamlit.app/](https://3ca-cancer-cell-atlas.streamlit.app/)
+
+
+
 A knowledge-graph-powered discovery interface for exploring datasets from the **Curated Cancer Cell Atlas (3CA)**.
 
 The prototype integrates sample-level metadata and cell-type relationships from multiple single-cell cancer datasets into a unified structure, represents relationships as a knowledge graph, and provides an interactive interface for searching datasets, generating discovery insights, and exploring biological relationships.
@@ -34,7 +41,7 @@ The system converts heterogeneous dataset metadata into:
 
 The user can search for concepts such as:
 
-```text
+
 HNSCC
 breast
 tumor
